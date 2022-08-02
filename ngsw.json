@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1659433319415,
+  "timestamp": 1659440301889,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -255,7 +255,7 @@
     "/assets/icon/favicon.ico": "24e1d3ab2f70e9bcfabb84220e711dba0f984974",
     "/assets/icon/mstile-150x150.png": "39e983e41710183fbb8aeeb49ffaa3b83116892d",
     "/assets/icon/safari-pinned-tab.svg": "bcd4fbd2d95edfc2ac9fdeaff2218cc2bedb7b27",
-    "/assets/icon/site.webmanifest": "22429b8bb1b2a5d036747e23916283b3d9a9e009",
+    "/assets/icon/site.webmanifest": "ea01701a466dd7dc45486944074dcab5bc27917a",
     "/bg.png": "cc62efe68d281af66fd469022b8b4758981510b8",
     "/canvg.js": "430358beb4cd9bb74b479b2680816d8aeca1b292",
     "/common.js": "8effbbd9828feeac5d3d1a1fd9fa67f1e9e21f9b",
