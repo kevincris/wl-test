@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 120 120" enable-background="new 0 0 120 120" xml:space="preserve">
+<g>
+	<g>
+		<rect x="17.7" y="24.7" fill="#FFFFFF" width="82.7" height="54.6"/>
+		<g>
+			<g>
+				<rect x="14.2" y="21.1" fill="#FFFFFF" stroke="#43566B" stroke-width="2" stroke-miterlimit="10" width="91" height="62.8"/>
+				<rect x="14.2" y="21.1" fill="#FFFFFF" stroke="#43566B" stroke-width="2" stroke-miterlimit="10" width="91" height="62.8"/>
+			</g>
+		</g>
+
+			<rect x="18.2" y="25.1" fill="#FFFFFF" stroke="#43566B" stroke-width="2" stroke-linejoin="round" stroke-miterlimit="10" width="82.9" height="54.7"/>
+		<line fill="#C4C8DC" stroke="#43566B" stroke-width="2" stroke-miterlimit="10" x1="101.2" y1="31" x2="18.2" y2="31"/>
+
+			<line fill="none" stroke="#43566B" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4,1" x1="21.6" y1="28.1" x2="43.4" y2="28.1"/>
+
+			<line fill="none" stroke="#43566B" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="4,1" x1="75.6" y1="28.1" x2="97.3" y2="28.1"/>
+		<polygon fill="#FFFFFF" stroke="#43566B" stroke-width="2" stroke-miterlimit="10" points="71.8,95.3 49.1,95.3 52.7,83.7
+			68.1,83.7 		"/>
+		<rect x="45.1" y="95.3" fill="#FFFFFF" stroke="#43566B" stroke-width="2" stroke-miterlimit="10" width="30.7" height="3.9"/>
+	</g>
+	<rect x="31.7" y="49.3" fill="none" stroke="#44566B" stroke-miterlimit="10" width="28.8" height="4"/>
+	<path fill="none" stroke="#44566B" stroke-width="2" stroke-miterlimit="10" d="M67.3,65.8c0,1-0.8,1.7-1.7,1.7H28
+		c-1,0-1.7-0.8-1.7-1.7V44.9c0-1,0.8-1.7,1.7-1.7h37.5c1,0,1.7,0.8,1.7,1.7V65.8z"/>
+	<line fill="none" stroke="#44566B" stroke-miterlimit="10" x1="31.6" y1="46.8" x2="40.4" y2="46.8"/>
+	<rect x="31.7" y="58.7" fill="none" stroke="#44566B" stroke-miterlimit="10" width="12.2" height="4"/>
+	<rect x="47.4" y="58.7" fill="none" stroke="#44566B" stroke-miterlimit="10" width="12.2" height="4"/>
+	<line fill="none" stroke="#44566B" stroke-miterlimit="10" x1="31.6" y1="56.2" x2="40.4" y2="56.2"/>
+	<line fill="none" stroke="#44566B" stroke-miterlimit="10" x1="46.7" y1="56.2" x2="55.6" y2="56.2"/>
+	<g>
+		<path fill="#3da5e1" d="M71.6,38.2c-6.3,4.2-12.7,2.3-18.7-1.5c0,0-0.1,29.8,18.7,36.2c18.8-6.5,18.7-36.2,18.7-36.2
+			C84.3,40.5,77.9,42.2,71.6,38.2z"/>
+
+			<polyline fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			66.8,54.6 71.5,57.8 76.4,48.8 		"/>
+	</g>
+</g>
+</svg>
